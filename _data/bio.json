@@ -1,60 +1,70 @@
 {
-  "basics": {
-    "name": "Anthony J. Christe",
-    "label": "Ph.D. Student and Research Assistant",
-    "picture": "https://anthonyjchriste.github.io/images/me.png",
-    "email": "achriste@hawaii.edu",
-    "phone": "814-442-9524",
-    "website": "https://anthonyjchriste.github.io",
-    "summary": "I am working towards a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+"basics": {
+    "name": "Simon Engler",
+    "label": "Student",
+    "picture": "https://simontengler.github.io/techfolio/images/simonengler.jpeg",
+    "email": "simon.engler@hawaii.edu",
+    "phone": "808-221-3787",
+    "website": "https://simontengler.github.io",
+    "summary": "I am studying for a PhD in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96814",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
-      {
+        {
         "network": "github",
-        "username": "anthonyjchriste",
-        "url": "http://github.com/anthonyjchriste"
+        "username": "SimonTEngler",
+        "url": "http://github.com/simontengler"
       },
       {
         "network": "linkedin",
-        "username": "anthonyjchriste",
-        "url": "http://linkedin.com/in/anthonyjchriste"
+        "username": "simon.engler@gmail.com",
+        "url": "https://www.linkedin.com/in/simon-engler-20526322/"
+      },
+      {
+        "network": "twitter",
+        "username": "SimonEngler",
+        "url": "http://twitter.com/SimonEngler"
+      },
+      {
+        "network": "instagram",
+        "username": "simon.engler",
+        "url": "http://instagram.com/simon.engler"
       }
     ]
   },
   "interests": [
-    {
-      "name": "distributed computing",
-      "keywords": [
-        "spark",
-        "kafka"
-      ]
-    },
-    {
-      "name": "data science",
+     {
+      "name": "Robotic exploration",
       "keywords": [
       ]
     },
     {
-      "name": "signal classification",
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "computational physics",
       "keywords": [
       ]
     }
   ],
   "skills": [
-    {
+     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
+        "C++",
         "Java",
         "Javascript",
-        "Clojure",
+        "FORTRAN",
+        "Perl",
         "Python"
       ]
     },
@@ -62,145 +72,125 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Linux",
+        "Ubuntu",
         "Git/GitHub",
-        "gnu utils",
-        "JVM"
+        "g++",
+        "Eclipse",
+        "Android App Development"
       ]
     }
   ],
   "education": [
-    {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+   {
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "Ph.D.",
-      "startDate": "2014",
+      "studyType": "PhD",
+      "startDate": "2014-01-15",
       "endDate": "Present",
-      "gpa": "4.0",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2011",
-      "endDate": "2014",
-      "gpa": "4.0",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Slippery Rock University of Pennsylvania, Slippery Rock, PA",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2007",
-      "endDate": "2011",
       "gpa": "3.5",
+      "courses": [
+      ]
+    },
+    {
+       "institution": "University of Calgary, Canada",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "MSc",
+      "startDate": "2010-01-15",
+      "endDate": "2013-12-31",
+      "gpa": "3.5",
+      "courses": [
+      ]
+    },
+    {
+     "institution": "University of Amsterdam",
+      "area": "Computational Physics",
+      "studyType": "Graduate",
+      "startDate": "2001-09-15",
+      "endDate": "2003-06-15",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+       "institution": "Saint Mary's University, Halifax, Canada",
+      "area": "Astropysics and Mathematics",
+      "studyType": "BSc",
+      "startDate": "1997-09-15",
+      "endDate": "2001-05-13",
+      "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [{
-    "company": "University of Hawaii at Manoa",
-    "position": "Research Assistant",
-    "website": "",
-    "startDate": "2014",
-    "endDate": "Present",
-    "summary": "Design of a framework for acquisition and analysis of distributed infrasound signals",
-    "highlights": []
-  }, {
-    "company": "OpenPowerQuality",
-    "position": "Co-Founder/Lead Software Engineer",
-    "website": "openpowerquality.org",
-    "startDate": "2014",
-    "endDate": "Present",
-    "summary": "Designed and implemented a suite of software for the aggregation, storage, and reporting of distributed power quality data.",
-    "highlights": []
-  }, {
-    "company": "University of Hawaii at Manoa",
-    "position": "Research Assistant",
-    "website": "",
-    "startDate": "2013",
-    "endDate": "2014",
-    "summary": "Designed and implemented open source distributed power quality monitoring software.",
-    "highlights": ["Investigate protocols for communication between power quality monitoring equipment and backends", "Identify power quality issues and inform users and the public", "Design an interface for distributed power quality metrics consumption and reporting"]
-  }, {
-    "company": "University of Hawaii at Manoa",
-    "position": "Teaching Assistant",
-    "website": "",
-    "startDate": "2011",
-    "endDate": "2013",
-    "summary": "Designed and ran the ICS 211 lab",
-    "highlights": ["Teach a diverse set of students core building blocks of programming techniques and tools", "Innovate using github to distribute classroom assignments and collect grades"]
-  }, {
-    "company": "Regional Learning Alliance, Cranberry, PA",
-    "position": "Assistant to Director of Technology",
-    "website": "",
-    "startDate": "2010",
-    "endDate": "2011",
-    "summary": "Assist in issues relating from IT to database entry",
-    "highlights": []
-  }, {
-    "company": "Slippery Rock University of Pennsylvania",
-    "position": "Undergraduate Research Assistant",
-    "website": "",
-    "startDate": "2009",
-    "endDate": "2011",
-    "summary": "Developed software for batch processing of requests from NOAA\u2019s Hysplit software package.",
-    "highlights": []
-  }, {
-    "company": "Slippery Rock University of Pennsylvania",
-    "position": "HPC Cluster Engineer",
-    "website": "",
-    "startDate": "2009",
-    "endDate": "2011",
-    "summary": "Developed, built, and maintained a computer cluster using COTS equipment.",
-    "highlights": []
-  }, {
-    "company": "Slippery Rock University of Pennsylvania",
-    "position": "Student Computer Help Desk",
-    "website": "",
-    "startDate": "2008",
-    "endDate": "2011",
-    "summary": "Assisted in diagnosing and repairing students\u2019 computer problems.",
-    "highlights": []
-  }],
-  "volunteer": [{
-    "organization": "808 Cleanups",
-    "position": "Software Developer and Cleanup Volunteer",
-    "startDate": "2015",
-    "endDate": "Present",
-    "summary": "Design backend and app for 808 cleanups and well as cleaning up trails",
-    "highlights": []
-  }, {
-    "organization": "Upsilon Pi Epsilon, Slippery Rock University of Pennsylvania",
-    "website": "",
-    "position": "Vice President",
-    "startDate": "2010",
-    "endDate": "2011",
-    "summary": "International Honor Society for the Computing and Information Disciplines",
-    "highlights": []
-  }, {
-    "organization": "Slippery Rock University of Pennsylvania",
-    "website": "",
-    "position": "Student Advisor to the Dean",
-    "startDate": "2010",
-    "endDate": "2010",
-    "summary": "",
-    "highlights": []
-  }, {
-    "organization": "Computer Technology Club, Slippery Rock University of Pennsylvania",
-    "website": "",
-    "position": "President",
-    "startDate": "2009",
-    "endDate": "2010",
-    "summary": "",
-    "highlights": []
-  }],
+  "work": [  {
+      "company": "University of Hawaii at Manoa",
+      "position": "Graduate Teaching Assistant",
+      "website": "http://www.hawaii.edu",
+      "startDate": "2017-09-01",
+      "endDate": "Current",
+      "summary": "TA for ISC 419 Machine Learning and ICS 349 Software Engineering I",
+      "highlights": [
+      ]
+    },
+       {
+      "company": "University of Hawaii at Manoa",
+      "position": "Graduate Research Assistant",
+      "website": "http://www.hawaii.edu",
+      "startDate": "2014-01-01",
+      "endDate": "2017-08-31",
+      "summary": "RA to Dr. Binsted helping with research and operations of the HI-SEAS experiment",
+      "highlights": [
+      ]
+    },
+       {
+      "company": "University of Hawaii at Manoa",
+      "position": "Crew Engineer",
+      "website": "http://www.hi-seas.org",
+      "startDate": "2012-08-01",
+      "endDate": "2013-08-01",
+      "summary": "Selected out of 700 applcants to be the Crew Engineer in the first Hawaii Space Exploration Analog and Simulation (HI-SEAS) for a four month isolation mission",
+      "highlights": [
+      ]
+    },
+     {
+      "company": "Carnegie Mellon Robotics Institute",
+      "position": "Visiting Research Scholar",
+      "website": "http://www.ucalgary.ca/news/utoday/june13-2012/prototype",
+      "startDate": "2012-06-01",
+      "endDate": "2010-09-01",
+      "summary": "Carnegie Mellon University working on Zoë a Mars rover prototype developing interface software",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Canadian Forces",
+      "position": "Combat Engineer (Sapper)",
+      "website": "http://www.forces.gc.ca",
+      "startDate": "2005-01-15",
+      "endDate": "2010-13-10",
+      "summary": "Combat Engineer in the Canadian Forces. Worked Improvised Explosive Device (IED) hunter." ,
+      "highlights": [
+       ]
+    },
+    {
+      "company": "Terradox Corp.",
+      "position": "Scientific Programmer",
+      "startDate": "2003-01-15",
+      "endDate": "2005-01-15",
+      "summary": "Developed software for a GUI interface and GPS guided agricultural systems",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Environment Canada",
+      "position": "Research Internship",
+      "website": "http://ec.gc.ca",
+      "startDate": "Summer 1998,1999,2000",
+      "summary": "Summer student at Environment Canada over three consecutive summers programming an emergency response oil spill simulation software",
+      "highlights": [
+      ]
+    }],
   "awards": [
-
   ],
   "references": [
     {
